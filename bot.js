@@ -10,4 +10,4 @@ channel.send(`الله و اكبر لا اله الا الله , محمد رسو
 }, 30)
 })
 
-client.login("NTI1NzEzNjU1MzA0ODE0NjEy.Dv6sOA.Y4DWWMIjo-pWJIlCgVasA_iPApw");
+client.login("NTI5MjIxNDg2MTI1NTE0Nzcy.Dwt-Ng.ZlOhtZwOT8x9FngPD5VKnoIkIxM");
